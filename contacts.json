@@ -1,4 +1,4 @@
-[{
+        {
 		"name": "Tom Hardy",
 		"image": "https://api.androidhive.info/json/images/tom_hardy.jpg",
 		"phone": "(541) 754-3010"
@@ -87,5 +87,4 @@
 		"name": "Robert Downey Jr.",
 		"image": "https://api.androidhive.info/json/images/robert.jpg",
 		"phone": "(444) 444-4444"
-	}
-]
+	},
